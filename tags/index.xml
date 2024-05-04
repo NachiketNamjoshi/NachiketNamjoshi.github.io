@@ -6,15 +6,14 @@
     <description>Recent content in Tags on Nachiket Namjoshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jul 2022 21:31:22 +0530</lastBuildDate><atom:link href="https://nachiketn.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 21:31:22 +0530</lastBuildDate>
+    <atom:link href="https://nachiketn.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>👤 personal</title>
-      <link>https://nachiketn.xyz/tags/personal/</link>
+      <title>👤 Personal</title>
+      <link>https://nachiketn.xyz/tags/-personal/</link>
       <pubDate>Sat, 23 Jul 2022 21:31:22 +0530</pubDate>
-      
-      <guid>https://nachiketn.xyz/tags/personal/</guid>
+      <guid>https://nachiketn.xyz/tags/-personal/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
