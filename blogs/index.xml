@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on Nachiket Namjoshi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 17:41:17 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 22:09:53 +0530</lastBuildDate>
     <atom:link href="https://nachiketn.xyz/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Part Nobody Wrote Down</title>
+      <link>https://nachiketn.xyz/blogs/the-part-nobody-wrote-down/</link>
+      <pubDate>Sun, 27 Sep 2026 22:09:53 +0530</pubDate>
+      <guid>https://nachiketn.xyz/blogs/the-part-nobody-wrote-down/</guid>
+      <description>I built an AI that reviews my colleagues&amp;#39; code, and it picked up parts of my judgment I thought were personal, like my tone. What it still misses is the stuff nobody ever wrote down.</description>
+    </item>
     <item>
       <title>Winning the Argument Doesn&#39;t Win the Truth</title>
       <link>https://nachiketn.xyz/blogs/winning-the-argument-doesnt-win-the-truth/</link>
