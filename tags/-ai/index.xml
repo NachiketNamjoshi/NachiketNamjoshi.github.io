@@ -14,6 +14,38 @@
       <pubDate>Sun, 11 Oct 2026 10:31:36 +0530</pubDate>
       <guid>https://nachiketn.xyz/blogs/what-i-dont-keep-in-the-house/</guid>
       <description>People approve most AI permission prompts without reading them. I&amp;#39;ve ended up deciding ahead of time instead, with Claude at my desk and with food at home. It works, but each of those walls keeps out more than I meant it to, including my mother&amp;#39;s festival sweets.</description>
+      <content:encoded><![CDATA[<h2 id="93-percent">93 Percent</h2>
+<p>People approved <a href="https://www.anthropic.com/engineering/how-we-contain-claude">Claude Code&rsquo;s permission prompts</a> roughly 93% of the time. Anthropic shared that number to make a point: the more prompts you see, the less you read them, and eventually the human check stops being much of a check.</p>
+<p>Anthropic describes two fixes. One is to let another system make the routine calls: auto mode, where a classifier decides which actions are safe enough to approve. The other is to limit what the agent can do in the first place, so some actions aren&rsquo;t possible at all. Either way, the idea is to stop relying on someone paying attention to every single action.</p>
+<p>I read that and recognised myself, at my desk and around food.</p>
+<h2 id="checking-after-the-fact">Checking After the Fact</h2>
+<p>Most of my &ldquo;yes&rdquo; clicks these days are to Claude, allowing it to run whatever command it wants for what feels like the hundredth time. I rarely go back to check what it actually ran. I&rsquo;d like to think I&rsquo;d notice if something went wrong.</p>
+<p>I track my calories and macros, and I&rsquo;m fairly conscious of what I eat. But plenty of days I don&rsquo;t track anything until after I&rsquo;ve eaten. I&rsquo;m tired, I&rsquo;m out somewhere, or I just don&rsquo;t feel like it. I fill in the numbers later.</p>
+<p>Both still give me the feeling of being in control. But I&rsquo;ve started paying less attention to both.</p>
+<h2 id="deciding-ahead">Deciding Ahead</h2>
+<p>What has worked better is deciding ahead of time.</p>
+<p>I got bored of approving things and switched on auto mode. Now the classifier decides which commands are safe enough to run without asking me. It works well enough that I barely think about permissions anymore. I didn&rsquo;t get better at paying attention. I handed the job to another system, one that Anthropic itself says will sometimes miss.</p>
+<p>At home, my wife and I do the shopping ourselves and don&rsquo;t keep much junk food around. Most of what we buy is protein sources and the food we normally eat. If I feel like eating something I shouldn&rsquo;t late at night, there&rsquo;s usually nothing there. I don&rsquo;t have to win an argument with myself. The option just isn&rsquo;t there.</p>
+<p>Going out is different. I can&rsquo;t empty a restaurant&rsquo;s kitchen. So when I know there&rsquo;ll be pizza or noodles with family or friends, I drink two scoops of protein shake before I go, so I don&rsquo;t arrive hungry. It doesn&rsquo;t make anything impossible. It just means I&rsquo;m not at my weakest when the food arrives.</p>
+<p>These decisions cost something too. Claude still interrupts me for permission on things I couldn&rsquo;t care less about. And when guests come over, there isn&rsquo;t much in the house to offer them, only whatever other people brought us. So I either make an acceptable version of a dish in advance or order something just for that visit, making sure not much is left over. A wall around my eating ends up as a wall around my hospitality.</p>
+<h2 id="what-the-classifier-cant-hear">What the Classifier Can&rsquo;t Hear</h2>
+<p>Claude has sent messages on GChat in auto mode without asking me first. I&rsquo;d approved sending messages plenty of times before, but only after I&rsquo;d read them. This time I didn&rsquo;t see them until they were sent. The meaning was right. The tone wasn&rsquo;t. It wasn&rsquo;t how I would have said it.</p>
+<p>As far as the classifier was concerned, sending the message was safe enough. It hadn&rsquo;t checked whether it sounded like me. I&rsquo;d <a href="https://nachiketn.xyz/blogs/the-part-nobody-wrote-down/">written before</a> about how many corrections it took before my AI code reviewer sounded like me. The classifier didn&rsquo;t even know tone was something I cared about.</p>
+<p>I scolded Claude for going rogue. Then I set a rule: messages need my approval before they go. Only the second one fixed anything. <a href="https://entropicthoughts.com/lean-not-backpressure">A line often attributed to Deming</a> says &ldquo;a bad system beats a good person every time.&rdquo;</p>
+<h2 id="at-the-table">At the Table</h2>
+<p>The last time I visited my mother, during the festival season, she&rsquo;d made sweets. I said no. She was disappointed. It felt like her effort had been wasted.</p>
+<p>My rule had already decided this before I got there. But I knew exactly whose sweets they were. I thought about eating them, and I did give in a little. I ate a bit and stopped.</p>
+<p>Afterwards I felt bad. Not guilty about eating a little, not guilty about refusing either, and not proud of sticking to my diet. Just bad.</p>
+<p>She still makes passing comments about not being sure I&rsquo;ll eat her food enough to &ldquo;justify&rdquo; her effort.</p>
+<p>Another time, at a restaurant, having decided to eat healthier, I spent so long going through the menu on my phone that it looked like I was more interested in my phone than in the people I was with.</p>
+<h2 id="the-quiet-moments">The Quiet Moments</h2>
+<p>None of this covers the moments I actually slip. Most of the time I know perfectly well what I&rsquo;m supposed to eat. I just want the food anyway, after a long day or in a quiet moment when the temptation feels stronger than whatever reason I had for avoiding it.</p>
+<p>I still think building restrictions in is useful wherever I can manage it. Some mistakes even turn into a rule after they happen once, like the GChat messages. I could make an exception for my mother&rsquo;s festival sweets too. But that wouldn&rsquo;t tell me what to do when I&rsquo;m sitting at her table.</p>
+<h2 id="what-the-walls-keep-out">What the Walls Keep Out</h2>
+<p>At the restaurant there was no wall to lean on, so the deciding came back to me, right there at the table. I ended up so busy being careful that I was barely with the people I&rsquo;d come to see.</p>
+<p>At my mother&rsquo;s place the wall was one I&rsquo;d brought with me. It kept the sweets out, and with them some of her effort.</p>
+<p>How much of what a wall keeps out did I actually mean to?</p>
+]]></content:encoded>
     </item>
     <item>
       <title>The Part Nobody Wrote Down</title>
@@ -21,6 +53,29 @@
       <pubDate>Sun, 27 Sep 2026 22:09:53 +0530</pubDate>
       <guid>https://nachiketn.xyz/blogs/the-part-nobody-wrote-down/</guid>
       <description>I built an AI that reviews my colleagues&amp;#39; code, and it picked up parts of my judgment I thought were personal, like my tone. What it still misses is the stuff nobody ever wrote down.</description>
+      <content:encoded><![CDATA[<h2 id="the-idea">The Idea</h2>
+<p>There&rsquo;s an idea going around tech right now. <a href="https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/">Raj Nandan Sharma puts it bluntly</a>: when AI makes building easy for everyone, good taste is the only real advantage left. <a href="https://www.epicproduct.engineer/the-last-software-engineer">The Last Software Engineer</a> says something similar: once writing the code is cheap, the hard part is deciding what should be built.</p>
+<p>Taste, judgment, call it what you like. I mean the calls that aren&rsquo;t written in any instruction. What&rsquo;s worth doing and what isn&rsquo;t. What to leave out. What actually matters in this situation. How to say something to this particular person.</p>
+<p>AI can do everything else, the idea goes, but not that. That sounded right to me. Then I watched something I built at work.</p>
+<h2 id="the-tool-i-built">The Tool I Built</h2>
+<p>A while back I was told I needed to review more of my colleagues&rsquo; code. I was already using AI to fix my own code, improve it, and sometimes write or debug it. So the next step felt obvious: let it do the reviewing too.</p>
+<p>Now it does. It reads the change, writes up its comments, and nothing reaches my colleagues until I approve it. I use it every day.</p>
+<h2 id="watching-it-grow-up">Watching It Grow Up</h2>
+<p>At first I checked everything it wrote before letting it out. I wanted to steer it enough that it could learn from my corrections.</p>
+<p>My corrections fell into two groups. Sometimes it was simply wrong, because it didn&rsquo;t know enough about the code. Other times it was technically right but didn&rsquo;t sound like me: the wrong words, the wrong examples, the wrong tone.</p>
+<p>That second group is exactly what I&rsquo;d have called judgment: how you&rsquo;d say something, what you&rsquo;d point out, what you&rsquo;d let go. It learned that. Every correction was, in a way, me writing my judgment down. I still have a &ldquo;mark wrong&rdquo; button, but these days I rarely need it.</p>
+<p>What&rsquo;s left isn&rsquo;t tone anymore. It&rsquo;s how things actually get released at work: the manual steps, the unwritten habits, the stuff that isn&rsquo;t in the code or in any document.</p>
+<h2 id="the-checkbox-complication">The Checkbox Complication</h2>
+<p>I&rsquo;ve seen the opposite at work more than once. One feature I remember: we changed how it worked so it followed the official standard it was always supposed to follow. Correct, overdue, good. And then we added a checkbox, so anyone could switch it back to the old behaviour. Because adding it was easy, and &ldquo;what if someone needs it the way it was?&rdquo;</p>
+<p>Each checkbox like that is cheap to add. Together they make a product harder to understand. Nobody decided it should be confusing. It got that way one reasonable &ldquo;what if&rdquo; at a time.</p>
+<p>Not adding that checkbox would have been the right call, and it&rsquo;s written down nowhere. Not in the standard, not in the code.</p>
+<h2 id="my-problem">My Problem</h2>
+<p>And yet the reviewer keeps absorbing things I&rsquo;d have filed under judgment. <a href="https://rico.codes/loops-not-prompts">Rico Mariani describes automation</a> as taking over the repetitive steering so your attention is free for the decisions that really need you. That matched my experience, except the line kept moving while I watched. Things I thought needed me turned out to be patterns I just hadn&rsquo;t spelled out.</p>
+<p>And honestly, even my own tool didn&rsquo;t come from some grand act of judgment. I built it because someone asked for more reviews, and because I love watching things happen on their own.</p>
+<h2 id="what-i-cant-answer">What I Can&rsquo;t Answer</h2>
+<p>My reviewer learned to sound like me in a matter of months. If someone documented our release process tomorrow, what&rsquo;s left would shrink again.</p>
+<p>If everything we know eventually gets written down, is there any judgment left that&rsquo;s only ours?</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
